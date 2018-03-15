@@ -19,19 +19,4 @@ of the majority of inside plant systems (electrical, plumbing, heating, cooling,
 * Event and Trigger Based Modules
 
 ### Required Packages
-* \>= LCM-1.3.1
-
-### Installation
-**TODO: Section to be completed at a later date.**
-
-### Building LCM From Source
-First download or clone the source from: [http://github.com/lcm-proj/lcm]
-
-Additional documentation about LCM can be found [here|http://lcm-proj.github.io/index.html].
-
-From within the cloned LCM directory run the following:
-```
-cmake
-make
-make install
-```
+* \>= zmq-16.0.2
